@@ -1,5 +1,4 @@
-
-Here’s README content you can drop into a `README.md` file. (I’m in Ask mode, so I’m not creating or editing files. If you want the file created for you, switch to Agent mode.)
+MCP for Weather Informaation of all country-places
 
 ---
 
