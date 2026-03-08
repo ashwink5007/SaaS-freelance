@@ -12,3 +12,10 @@ wheels/
 # Environment and secrets
 .env
 .env.*
+
+# Node (from original repo)
+node_modules/
+.next/
+
+# OS
+.DS_Store
